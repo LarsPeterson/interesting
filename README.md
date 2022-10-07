@@ -6,12 +6,12 @@
 
 TABLE OF CONTENTS
 
-- [Tech Podcasts](https://github.com/LarsPeterson/interesting/edit/main/README.md#Tech-Podcasts)
-- [Tech Resources](https://github.com/LarsPeterson/interesting/edit/main/README.md#Tech-Resources)
-- [Tech Certifications](https://github.com/LarsPeterson/interesting/edit/main/README.md#Tech-Certifications)
-- [Tech Trends](https://github.com/LarsPeterson/interesting/edit/main/README.md#Tech-Trends)
-- [Crypto](https://github.com/LarsPeterson/interesting/edit/main/README.md#Crypto)
-- [Encryption](https://github.com/LarsPeterson/interesting/edit/main/README.md#Encryption)
+- [Tech Podcasts](https://github.com/LarsPeterson/interesting/main/README.md#Tech-Podcasts)
+- [Tech Resources](https://github.com/LarsPeterson/interesting/main/README.md#Tech-Resources)
+- [Tech Certifications](https://github.com/LarsPeterson/interesting/main/README.md#Tech-Certifications)
+- [Tech Trends](https://github.com/LarsPeterson/interesting/main/README.md#Tech-Trends)
+- [Crypto](https://github.com/LarsPeterson/interesting/main/README.md#Crypto)
+- [Encryption](https://github.com/LarsPeterson/interesting/main/README.md#Encryption)
 
 
 ### Tech Podcasts
