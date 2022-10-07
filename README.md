@@ -12,6 +12,7 @@ TABLE OF CONTENTS
 - [Tech Trends](https://github.com/LarsPeterson/interesting/blob/main/README.md#Tech-Trends)
 - [Crypto](https://github.com/LarsPeterson/interesting/blob/main/README.md#Crypto)
 - [Encryption](https://github.com/LarsPeterson/interesting/blob/main/README.md#Encryption)
+- [Machine Learning](https://github.com/LarsPeterson/interesting/blob/main/README.md#Machine-Learning)
 
 
 ### Tech Podcasts
@@ -69,5 +70,10 @@ The following is what is important with crypto:
 
 - Elliptic Curve Encryption
 
+### Machine Learning
+
+- [Azure Open Datasets](https://azure.microsoft.com/en-us/products/open-datasets/)
+
+- [Running Jupyter Notebooks in Azure](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-notebooks)
 
 
