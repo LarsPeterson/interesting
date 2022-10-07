@@ -13,6 +13,7 @@ TABLE OF CONTENTS
 - [Crypto](https://github.com/LarsPeterson/interesting/blob/main/README.md#Crypto)
 - [Encryption](https://github.com/LarsPeterson/interesting/blob/main/README.md#Encryption)
 - [Machine Learning](https://github.com/LarsPeterson/interesting/blob/main/README.md#Machine-Learning)
+- [Unity3D](https://github.com/LarsPeterson/interesting/blob/main/README.md#Unity3D)
 
 
 ### Tech Podcasts
@@ -70,9 +71,30 @@ The following is what is important with crypto:
 
 - Elliptic Curve Encryption
 
+
 ### Machine Learning
 
 - [Azure Open Datasets](https://azure.microsoft.com/en-us/products/open-datasets/)
 
 - [Running Jupyter Notebooks in Azure](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-notebooks)
 
+
+### Unity3D
+
+- https://www.reddit.com/r/Unity3D/
+
+- https://github.com/MirzaBeig/Post-Processing-Scan
+
+- https://gitlab.com/dima13230/unity-libre-fracture
+
+- https://www.reallusion.com/character-creator/download.html
+
+- https://www.reallusion.com/store/product.html?l=1&p=cc
+
+- https://sketchfab.com/search?q=car&type=models
+
+- https://sketchfab.com
+
+- https://alicevision.org
+
+- [YouTube: Building a City Builder](https://www.youtube.com/watch?v=d_zviIfcCHk)
