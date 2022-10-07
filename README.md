@@ -76,4 +76,3 @@ The following is what is important with crypto:
 
 - [Running Jupyter Notebooks in Azure](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-notebooks)
 
-
