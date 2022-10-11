@@ -33,6 +33,8 @@ TABLE OF CONTENTS
 
 - [Top 10 Malware in January 2020](https://www.cisecurity.org/blog/top-10-malware-january-2020/)
 
+- [PC Health Check Software](https://sjpc.org/pchealthcheck/software.html)
+
 
 ### Tech Certifications
 
