@@ -2,7 +2,7 @@
 
 - [Personal Website](https://larspeterson.me)
 
-- [Favorite Tech in 2022](https://github.com/LarsPeterson/personal-favorite-tech-in-2022)
+- [Coding Tech 2023](https://github.com/LarsPeterson/coding-tech-2023)
 
 TABLE OF CONTENTS
 
