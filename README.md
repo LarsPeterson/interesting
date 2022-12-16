@@ -15,6 +15,21 @@ TABLE OF CONTENTS
 - [Machine Learning](https://github.com/LarsPeterson/interesting/blob/main/README.md#Machine-Learning)
 - [Unity3D](https://github.com/LarsPeterson/interesting/blob/main/README.md#Unity3D)
 
+### Top Paying Digital Skills
+
+- Search Engine Optimization
+
+- Digital Marketing
+
+- Blockchain
+
+- Software Engineering
+
+- Video Editing
+
+- Content Management
+
+- Copywriting
 
 ### Tech Podcasts
 
