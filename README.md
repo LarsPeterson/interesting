@@ -50,6 +50,7 @@ TABLE OF CONTENTS
 
 - [PC Health Check Software](https://sjpc.org/pchealthcheck/software.html)
 
+- [Github Copilot Alternatives](https://www.kdnuggets.com/2021/07/github-copilot-open-source-alternatives-code-generation.html)
 
 ### Tech Certifications
 
